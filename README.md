@@ -1,5 +1,5 @@
 # hello-mona
 
-my first respiratory on GitHub
+my first repository on GitHub
 
 I am from Namibia, I love :coffee:.
